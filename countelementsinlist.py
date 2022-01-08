@@ -4,3 +4,4 @@ def count(lst, value):
         if element == value:
             cnt = cnt + 1
     return cnt
+print("the end")
